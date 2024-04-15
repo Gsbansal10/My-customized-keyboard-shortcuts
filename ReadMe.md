@@ -4,7 +4,7 @@ This table displays the keyboard shortcuts that I have tailored to my preference
 
 Blank rows indicate that the particular key combination hasn't been assigned yet.
 
-The list is also available as a Google sheet which is more up to date. ![Check it out here](https://docs.google.com/spreadsheets/d/1YpRrH6MP1oOGn2LSHvPXqUlDo21zCg1KrYbc4V3uDkI/edit?usp=sharing).
+The list is also available as a Google sheet which is more up to date. [Check it out here](https://docs.google.com/spreadsheets/d/1YpRrH6MP1oOGn2LSHvPXqUlDo21zCg1KrYbc4V3uDkI/edit?usp=sharing).
 
 
 
