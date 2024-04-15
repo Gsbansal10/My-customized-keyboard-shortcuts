@@ -2,6 +2,8 @@
 
 This table displays the keyboard shortcuts that I have tailored to my preferences or rely on frequently. By documenting them on Github, my intention is to ensure they are readily accessible across all my Mac devices, preserving them should I switch to a new Macbook in the future.
 
+Blank rows indicate that the particular key combination hasn't been assigned yet.
+
 
 
 | Sno | Key Combination   | Function                                                             | App        |
